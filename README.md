@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaSwaroop98
 - 👀 I’m interested in BackEnd Development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... swaraditya98@gmail.com
 
 <!---
